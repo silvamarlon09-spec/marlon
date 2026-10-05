@@ -1,1 +1,88 @@
+< !DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta charset="UTF-8">
+‹meta name="viewport"
+content-"width-device-width, initial-scale=1.0"> ‹title> Meu blog </title>
+</head>
+<body>
+<header>
+<h1>Meu blog
+tech</h1>
+<p>Vou compartilhar conhecimentos sobre tecnologia e programação</p>
+</header>
+<link
+rel- "stylesheet" href= "style.css">
+</head>
+Q
+<main>
+‹article›
+<img src-"imagem-blog.jpg"
+alt-"logotipo conceitual de tecnologia e educação.">
+<div>
+<h2›Meu primeiro post</h2>
+<p class-"artigo-autor"> Por: Thábata Assoni</p>
+<p›Boas-vindas ao meu novo blog! Aqui vou compartilhar dicas de programação e curiosidades da área da tecnologia.</p>
+<button> 💔 <span> 0 </span> </button>
+<button> 🙉 <span> 0 </span> </button>
+</div>
+</article>
+‹article›
+<img src-"imagem-blog2. jpg"
+alt-"0 mundo com uma explosão.">
+<div> 
+<h2>A quantidade de dados no mundo é surreal</h2>
+<p class-"artigo-autor"> Por: Thábata Assoni</p>
+<p>Estima-se que 90% de todos os dados existentes no mundo hoje foram gerados apenas nos últimos dois anos. Vivemos em uma verdadeira explosão de informação que não para de acelerar."</p>
+‹button› 💔 <span> 0 </span> </button>
+<button> 🙈 <span> 0 </span> </button>
+</div>
+</article>
+<article›
+<img src-"imagem-blog3.jpg"
+alt-"mouse de madeira.">
+<div>
+<h2>0 primeiro mouse não era de plástico</h2>
+‹p class-"artigo-autor"> Por: Thábata Assoni</p>
+<p>Antes do design ergonômico e das luzes RGB, ° primeiro mouse do mundo foi construido em madeira! Criado por Douglas Engelbart em 1964, ele tinha o formato de uma caixa quadrada e apenas um botão."</p>
+<button> 💔 <span> 0 </span> </button>
+<button> 🙈 <span> 0 </span> </button>
+</div>
+</article>
+‹article›
+<img src-"imagem-blog4.jpg"
+alt-"dente azul.">
 
+<div>
+<h2>Por que o Bluetooh se chama assim?</h2>
+<p class-"artigo-autor"> Por: Thábata Assoni</p>
+<p>0 nome Bluetooth é uma homenagem ao rei viking Harald "Blatand" Gormsson
+(Harald Dente-Azul), que governou a Dinamarca e a Noruega no século X.</p>
+<button> 💔 <span> 0 </span> </button>
+<button> 🙈 <span> 0 </span> </button>
+</div>
+</article›
+‹article›
+<img src-"imagem-blog5.jPg" alt-"primeiro computador.">
+‹div>
+<h2>0 primeiro computador não foi a máquina de Turing</h2>
+<p class-"artigo-autor"> Por:
+Thábata Assoni</p>
+<p>Apesar de Alan Turing ser reconhecido como pai da computação, ele não criou o primeiro computador.
+Entre os primeiros computadores, um deles foi chamado Colossus, projetado por Tonny Flowers durante a Segunda Guerra Mundial e também, praticamente na mesma época, o ENIAC foi projetado por J. Presper Eckert e John Mauchly.
+<br><br>Embora o Colossus tenha funcionado antes como um
+"herói de guerra" especializado.
+O ENIAC é frequentemente chamado de "pai" por ser o primeiro programável
+de uso geral.
+‹br><br>E ai, qual você consideraria como o primeiro computador?</p> <p class-"artigo-fonte"> Fonte: <a href-http://www.tnmoc.org/colossus" target-"_blank"> The National Museum of Computings/a></p>
+ <button> 💔 <span> 0 </span> </button>
+ <button> 🙈 <span> 0 </span> </button>
+
+</div>
+</article›
+</main›
+
+‹button class="btn-tema-escuro"> 🌓 </button>
+‹script src= "script.js"></script>
+</body>
+</html>
